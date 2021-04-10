@@ -31,7 +31,7 @@ My name is Vedran, and i'm a frontend developer and IoT enthusiast from Osijek, 
 ![](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
 
-### :bar_chart: Github Stats
+## :bar_chart: Github Stats
 ![Vedrans's GitHub stats](https://github-readme-stats.vercel.app/api?username=vbrodar&show_icons=true&theme=dracula)
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=vbrodar&show_icons=true&theme=dracula)
