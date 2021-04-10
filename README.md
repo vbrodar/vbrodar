@@ -8,7 +8,7 @@ My name is Vedran, and i'm a frontend developer and IoT enthusiast from Osijek, 
 ![](https://img.shields.io/badge/-Raspberry%20Pi-A22846?logo=raspberry-pi&logoColor=white&style=flat)
 
 ## Programming languages
-# Frontend
+### Frontend
 ![](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white&style=flat)
@@ -19,12 +19,14 @@ My name is Vedran, and i'm a frontend developer and IoT enthusiast from Osijek, 
 ![](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-Gatsby-663399?logo=gatsby&logoColor=white&style=flat)
 
-#Backend
+### Backend
 ![](https://img.shields.io/badge/-C%20Language-3949ab?logo=c&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white&style=flat)
 
-
+### Other tools
+![](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white&style=flat)
+![](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
 
 ### :bar_chart: Github Stats
 ![Vedrans's GitHub stats](https://github-readme-stats.vercel.app/api?username=vbrodar&show_icons=true&theme=dracula)
