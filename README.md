@@ -2,8 +2,9 @@
 My name is Vedran, and i'm a frontend developer and IoT enthusiast from Osijek, Croatia.
 
 ### :wrench: Tools & Technologies
-<img src="https://raw.githubusercontent.com/vbrodar/vbrodar/master/<GIF_NAME>.gif" width="30px">
-<i class="fab fa-python" width="30px"></i>
+![](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)
+
+
 
 ### :bar_chart: Github Stats
 ![Vedrans's GitHub stats](https://github-readme-stats.vercel.app/api?username=vbrodar&show_icons=true&theme=dracula)
