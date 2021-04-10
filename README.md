@@ -7,5 +7,5 @@ My name is Vedran, and i'm a frontend developer and IoT enthusiast from Osijek, 
 ### :bar_chart: Github Stats
 ![Vedrans's GitHub stats](https://github-readme-stats.vercel.app/api?username=vbrodar&show_icons=true&theme=dracula)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=vbrodar)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=vbrodar?theme=dracula)
 
