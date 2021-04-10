@@ -14,10 +14,13 @@ My name is Vedran, and i'm a frontend developer and IoT enthusiast from Osijek, 
 ![](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![](https://img.shields.io/badge/-Typescript-3178C6?logo=typescript&logoColor=white&style=flat)
+![](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-Vue-34FC08D?logo=vue.js&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-Nuxt.js-00C58E?logo=nuxt.js&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-Gatsby-663399?logo=gatsby&logoColor=white&style=flat)
+![](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=flat)
+
 
 ### Backend
 ![](https://img.shields.io/badge/-C%20Language-3949ab?logo=c&logoColor=white&style=flat)
