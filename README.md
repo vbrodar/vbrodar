@@ -1,5 +1,9 @@
 ##  Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 My name is Vedran, and i'm a frontend developer and IoT enthusiast from Osijek, Croatia.
+Always eager to learn new technologies and tools doesn't matter if it is backend, frontend or any other miscellaneous tools.
+
+## My uni gitlab account: 
+https://gitlab.com/vbrodar
 
 ## :wrench: Tools & Technologies
 ### OS
@@ -24,12 +28,24 @@ My name is Vedran, and i'm a frontend developer and IoT enthusiast from Osijek, 
 
 ### Backend
 ![](https://img.shields.io/badge/-C%20Language-3949ab?logo=c&logoColor=white&style=flat)
+![](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white&style=flat)
 
 ### Other tools
+![](https://img.shields.io/badge/-Mysql-4479A1?logo=mysql&logoColor=white&style=flat)
+![](https://img.shields.io/badge/-Xampp-FB7A24?logo=xampp&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
+
+### :iphone: Contact
+
+
+- :email: [Email](vedran.brodar@hotmail.com)
+- <a href="https://www.codecademy.com/profiles/vbrodar6474179789" rel="Codecademy profile">![](https://img.shields.io/badge/-Codecademy-1F4056?logo=codecademy&logoColor=white&style=flat)</a>
+- :computer: [Personal website](https://brodar-portfolio.netlify.app/)
+
 
 ## :bar_chart: Github Stats
 ![Vedrans's GitHub stats](https://github-readme-stats.vercel.app/api?username=vbrodar&show_icons=true&theme=dracula)
