@@ -42,7 +42,7 @@ https://gitlab.com/vbrodar
 ### :iphone: Contact
 
 
-- :email: [Email](vedran.brodar@hotmail.com)
+- :email: [Email](mailto:vedran.brodar@hotmail.com)
 - <a href="https://www.codecademy.com/profiles/vbrodar6474179789" rel="Codecademy profile">![](https://img.shields.io/badge/-Codecademy-1F4056?logo=codecademy&logoColor=white&style=flat)</a>
 - :computer: [Personal website](https://brodar-portfolio.netlify.app/)
 
