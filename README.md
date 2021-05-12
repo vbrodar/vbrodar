@@ -1,5 +1,5 @@
 ##  Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Vedran, and i'm a developer and IoT enthusiast from Osijek, Croatia.
+My name is Vedran, i'm a developer and IoT enthusiast from Osijek, Croatia.
 Always eager to learn new technologies and tools doesn't matter if it is backend, frontend or any other miscellaneous tools.
 
 ## My uni gitlab account: 
